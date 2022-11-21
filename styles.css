@@ -132,6 +132,16 @@ html {
   font-size: 70%;
 }
 
+  
+/* .navbar ul{
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: nowrap;
+}
+ */
 
 
 .comingSoon{
@@ -369,11 +379,7 @@ color: blue;
   }
  
   
-  .navbar li{
-    margin-left: 1em;
-    margin-right: 1em;
-  }
- 
+  
  
 
 
@@ -419,12 +425,9 @@ color: blue;
   .nav-link{
     font-size: 100%;
   }
- 
-  .navbar li{
-    margin-left: 4em;
-    margin-right: 4em;
-  }
- 
+
+
+
 /*   Header */
   #header {
     background-color: #5995DA;
@@ -456,5 +459,4 @@ color: blue;
 }
 
 }
-
 
